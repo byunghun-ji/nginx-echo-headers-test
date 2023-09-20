@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'govpool'
+  name: 'test-pool'
 
 steps:
 - task: Docker@2
